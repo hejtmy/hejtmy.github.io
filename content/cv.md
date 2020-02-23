@@ -5,4 +5,9 @@ title = ""
 slug = "" 
 +++
 
-asdasd
+## Skills
+
+## Work experience
+
+## Education
+
