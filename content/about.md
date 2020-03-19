@@ -5,7 +5,7 @@ title = ""
 slug = "" 
 +++
 
-I am full time neurosciences PhD student at the 3rd Medical Faculty, Charles University in Prague. I do most of my work at the Institutes of Physiology, ASCR and the National Institute of Mental Health, Czech Republic. My focus is on spatial representations, navigation and memory and its neural correlates. We work with scalp and intracranial EEG, fMRI, eyetracking and virtual reality. 
+I am full time neurosciences PhD student at the 3rd Medical Faculty, Charles University in Prague. I do most of my work at the Institutes ogf Physiology, ASCR and the National Institute of Mental Health, Czech Republic. My focus is on spatial representations, navigation and memory and its neural correlates. We work with scalp and intracranial EEG, fMRI, eyetracking and virtual reality. 
 
 Most of my work is spent in front of PC screens, writing thousands of lines of code in R, Python C#, Matlab, Latex, and Javascript, but I have done projects of varying size in Ruby, Lua BASIC and others. Modern neuroscience is just programming.
 

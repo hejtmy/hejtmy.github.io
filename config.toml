@@ -15,7 +15,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Lukáš Hejtmánek"
-    info = "Neuroscience PhD student, data scientist, gaming and VR enthusiast"
+    info = "neuroscience PhD student, data scientist, videogaming & boardgaming geek, VR enthusiast"
     description = "Lukáš Hejtmánek's personal website"
     keywords = "blog, developer, personal"
     avatarurl = ""
@@ -30,6 +30,7 @@ disqusShortname = "yourdiscussshortname"
     rtl = false
     math = true
     custom_css = ["css/custom.css"]
+
 
 # Social links
 [[params.social]]
@@ -69,10 +70,10 @@ disqusShortname = "yourdiscussshortname"
     name = "Publications"
     weight = 1
     url = "/publications/"
-[[menu.main]]
-    name = "CV"
-    weight = 3
-    url = "/cv/"
+#[[menu.main]]
+#    name = "Projects"
+#    weight = 2
+#    url = "/projects/"
 [[menu.main]]
     name = "Blog"
     weight = 5
