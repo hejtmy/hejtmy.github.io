@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hejtmy</title>
-    <link>http://www.example.com/</link>
+    <link>http://hejtmy.com/</link>
     <description>Recent content on hejtmy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hejtmy.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://www.example.com/about/</link>
+      <link>http://hejtmy.com/about/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>http://hejtmy.com/about/</guid>
       <description>I am full time neurosciences PhD student at the 3rd Medical Faculty, Charles University in Prague. I do most of my work at the Institutes ogf Physiology, ASCR and the National Institute of Mental Health, Czech Republic. My focus is on spatial representations, navigation and memory and its neural correlates. We work with scalp and intracranial EEG, fMRI, eyetracking and virtual reality.
 Most of my work is spent in front of PC screens, writing thousands of lines of code in R, Python C#, Matlab, Latex, and Javascript, but I have done projects of varying size in Ruby, Lua BASIC and others.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.example.com/cv/</link>
+      <link>http://hejtmy.com/cv/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/cv/</guid>
+      <guid>http://hejtmy.com/cv/</guid>
       <description>Work experience September 2017 – June 2018 | Fulbright scholar | Center for Neuroscience, UC Davis | California, USA
 I received Fulbright scholarship to study human navigation in virtual reality and how it transfers to the real world in the lab of Arne D. Ekstrom, PhD in California. I have programmed experiments in Unity for HTC Vive and iOS app for real-world tracking.
  January 2015 – Present | National Institute of Mental Health | junior researcher and programmer | Klecany, CZ</description>
@@ -34,10 +34,10 @@ I received Fulbright scholarship to study human navigation in virtual reality an
     
     <item>
       <title></title>
-      <link>http://www.example.com/publications/</link>
+      <link>http://hejtmy.com/publications/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/publications/</guid>
+      <guid>http://hejtmy.com/publications/</guid>
       <description>2020 Hejtmánek, L., Starrett, M., Ferrer, E., &amp;amp; Ekstrom, A. D. (2020). How Much of What We Learn in Virtual Reality Transfers to Real-World Navigation? Multisensory Research, 1–25.
 2019 Harootonian, S. K., Wilson, R. C., Hejtmánek, L., Ziskin, E. M., &amp;amp; Ekstrom, A. D. (2019). Path integration in large-scale space and with novel geometries: Comparing Vector Addition and Encoding-Error Models. In bioRxiv (p. 809012). https://doi.org/10.1101/809012
 2018 Hejtmánek, L., Oravcová, I., Motýl, J.</description>
@@ -45,10 +45,10 @@ I received Fulbright scholarship to study human navigation in virtual reality an
     
     <item>
       <title></title>
-      <link>http://www.example.com/projects/</link>
+      <link>http://hejtmy.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>http://hejtmy.com/projects/</guid>
       <description></description>
     </item>
     
