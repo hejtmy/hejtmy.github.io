@@ -52,7 +52,7 @@ disqusShortname = "yourdiscussshortname"
     name = "ResearchGate"
     icon = "fab fa-researchgate fa-2x"
     weight = 3
-    url = "https://twitter.com/hejtmy_"
+    url = "https://www.researchgate.net/profile/Lukas_Hejtmanek"
 [[params.social]]
     name = "Linkedin"
     icon = "fab fa-linkedin fa-2x"
