@@ -34,4 +34,3 @@ There are also packages to parse and transform data to the *eyer* format from ey
 GGBGG is a *npm* hosted javascript pacakge to provide wrappers and parsers of boardgamegeek data. 
 
 - [npm](https://www.npmjs.com/package/ggbgg)
-- [github](https://github.com/hejtmy/ggbgg)
