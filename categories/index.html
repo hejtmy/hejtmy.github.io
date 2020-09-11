@@ -4,10 +4,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
 
     <meta name="author" content="Lukáš Hejtmánek">
     <meta name="description" content="Lukáš Hejtmánek&#39;s personal website">
     <meta name="keywords" content="blog, developer, personal">
+
+    
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Categories"/>
@@ -30,13 +33,13 @@
     
 
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
 
     
       
       
-      <link rel="stylesheet" href="http://hejtmy.com/css/coder.min.a4f332213a21ce8eb521670c614470c58923aaaf385e2a73982c31dd7642decb.css" integrity="sha256-pPMyITohzo61IWcMYURwxYkjqq84XipzmCwx3XZC3ss=" crossorigin="anonymous" media="screen" />
+      <link rel="stylesheet" href="http://hejtmy.com/css/coder.min.fce3d3684e836ce340cdd591dad1749c310472d5ed4049fab99845c9aec4d4bf.css" integrity="sha256-/OPTaE6DbONAzdWR2tF0nDEEctXtQEn6uZhFya7E1L8=" crossorigin="anonymous" media="screen" />
     
 
     
@@ -49,18 +52,21 @@
 
     
 
-    
-
     <link rel="icon" type="image/png" href="http://hejtmy.com/img/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="http://hejtmy.com/img/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="http://hejtmy.com/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon"  sizes="180x180" href="http://hejtmy.com/images/apple-touch-icon.png">
 
     <link rel="alternate" type="application/rss+xml" href="http://hejtmy.com/categories/index.xml" title="hejtmy" />
     <meta name="generator" content="Hugo 0.65.3" />
   </head>
-
   
   
-  <body class="colorscheme-light">
+  
+  <body class="colorscheme-light"
+        onload=""
+  >
     <main class="wrapper">
       <nav class="navigation">
   <section class="container">
@@ -68,26 +74,38 @@
       hejtmy
     </a>
     
-    <input type="checkbox" id="menu-toggle" />
-    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
-    <ul class="navigation-list">
-      
+      <span id="dark-mode-toggle" class="float-right">
+        <i class="fas fa-adjust fa-fw"></i>
+      </span>
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fas fa-bars fa-fw"></i>
+      </label>
+      <ul class="navigation-list">
         
-          <li class="navigation-item">
-            <a class="navigation-link" href="http://hejtmy.com/publications/">Publications</a>
-          </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="http://hejtmy.com/publications/">Publications</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="http://hejtmy.com/packages/">Packages</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="http://www.neuro-coder.com">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="http://hejtmy.com/about/">About</a>
+            </li>
+          
         
-          <li class="navigation-item">
-            <a class="navigation-link" href="http://www.neuro-coder.com">Blog</a>
-          </li>
         
-          <li class="navigation-item">
-            <a class="navigation-link" href="http://hejtmy.com/about/">About</a>
-          </li>
-        
-      
-      
-    </ul>
+        <li class="navigation-item separator">
+          <span>|</span>
+        </li>
+      </ul>
     
   </section>
 </nav>
@@ -97,6 +115,7 @@
         
   <section class="container list">
   <h1 class="title">Categories</h1>
+  
   <ul>
     
   </ul>
@@ -112,24 +131,34 @@
 
       </div>
 
-      <footer class="footer">
-  <section class="container">
-    
-    
       
-        © 2020
+  <footer class="footer">
+    <section class="container">
       
-       Lukáš Hejtmánek 
-    
-    
-       · 
-      Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
-    
-    
-  </section>
-</footer>
+      
+        ©
+        
+        2020
+         Lukáš Hejtmánek 
+      
+      
+         · 
+        Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      
+      
+    </section>
+  </footer>
 
     </main>
+
+    
+      
+      <script src="http://hejtmy.com/js/dark-mode.min.0213e1773e6d1c5a644f847c67a6f8abac49a3776e2976f6008038af8c5b76a1.js"></script>
+    
+
+    
+
+    
 
     
 
