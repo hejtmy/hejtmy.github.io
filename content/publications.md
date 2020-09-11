@@ -6,10 +6,13 @@ slug = ""
 +++
 
 ### 2020
+Vlcek, K. , Fajnerova, I., Nekovarova, T., Hejtmanek, L., Janca, R., Jezdik, P., Kalina, A., Tomasek, M., Krsek, P., Hammer, J., Marusic, P. (2020) **Mapping the scene and object processing networks by intracranial EEG** Frontiers in Human Neuroscience, Accepted
+
+Plechatá, A., Hejtmánek, L., Fajnerová, I. (2020). **Virtual Supermarket Shopping Task for cognitive assessment and rehabilitation of psychiatric patients: Validation in chronic schizophrenia?** *Československá psychologie*, Accepted
+
 Hejtmánek, L., Starrett, M., Ferrer, E., & Ekstrom, A. D. (2020). **How Much of What We Learn in Virtual Reality Transfers to Real-World Navigation?** *Multisensory Research*, 1–25.
 
-### 2019
-Harootonian, S. K., Wilson, R. C., Hejtmánek, L., Ziskin, E. M., & Ekstrom, A. D. (2019). **Path integration in large-scale space and with novel geometries: Comparing Vector Addition and Encoding-Error Models**. *In bioRxiv (p. 809012)*. https://doi.org/10.1101/809012
+Harootonian, S. K., Wilson, R. C., Hejtmánek, L., Ziskin, E. M., & Ekstrom, A. D. (2020). **Path integration in large-scale space and with novel geometries: Comparing vector addition and encoding-error models** PLOS Computational Biology, 16(5)
 
 ### 2018
 Hejtmánek, L., Oravcová, I., Motýl, J., Horáček, J., & Fajnerová, I. (2018). **Spatial knowledge impairment after GPS guided navigation: Eye-tracking study in a virtual town**. *International Journal of Human-Computer Studies*, 116, 15–24.
