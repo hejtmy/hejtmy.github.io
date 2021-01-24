@@ -5,12 +5,7 @@
     <link>http://hejtmy.com/</link>
     <description>Recent content on hejtmy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://hejtmy.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="http://hejtmy.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://hejtmy.com/about/</link>

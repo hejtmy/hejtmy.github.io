@@ -23,17 +23,16 @@
   </url>
   
   <url>
-    <loc>http://hejtmy.com/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://hejtmy.com/projects/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hejtmy.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hejtmy.com/</loc>
   </url>
   
   <url>
