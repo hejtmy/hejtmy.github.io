@@ -24,7 +24,7 @@ Oct 2015 – Present | Institute of Physiology CAS | PhD dissertation research |
 
 ## Education
 
-PhD in Neurosciences | Charles University | October2015 - Present | Prague, CZ
+PhD in Neurosciences | Charles University | October2015 - December 2020 | Prague, CZ
 
 Psychology exchange | McGill University | January 2013 - April 2013 | Montreal, CA
 
