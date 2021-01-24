@@ -9,7 +9,7 @@ env:
     - GIT_DEPLOY_BRANCH=master
     - GIT_DEPLOY_USERNAME="Travis CI" # dummy name
     - GIT_DEPLOY_EMAIL=hejtmy@gmail.com # replace by your email
-    - HUGO_VERSION=0.65.3
+    - HUGO_VERSION=0.80.0
 
 branches:
   only:

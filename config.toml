@@ -35,12 +35,12 @@ disqusShortname = "yourdiscussshortname"
 # Social links
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fa fa-github fa-2x"
     weight = 1
     url = "https://github.com/hejtmy/"
 [[params.social]]
     name = "email"
-    icon = "fas fa-envelope fa-2x"
+    icon = "fa fa-envelope fa-2x"
     weight = 3
     url = "mailto:hejtmy@gmail.com"
 [[params.social]]
@@ -55,12 +55,12 @@ disqusShortname = "yourdiscussshortname"
     url = "https://www.researchgate.net/profile/Lukas_Hejtmanek"
 [[params.social]]
     name = "Linkedin"
-    icon = "fab fa-linkedin fa-2x"
+    icon = "fa fa-linkedin fa-2x"
     weight = 3
     url = "https://www.linkedin.com/in/lukashejtmanek/"
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    icon = "fa fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/hejtmy_"
 
