@@ -9,7 +9,7 @@
     <item>
       <title></title>
       <link>http://hejtmy.com/about/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>http://hejtmy.com/about/</guid>
       <description>I am a researcher by profession, programmer by necessity and a teacher and a gamer by heart. I do most of my work at the Institutes of Physiology and Psychology, ASCR and at the National Institute of Mental Health, Czech Republic. My focus is on spatial representations, navigation, memory and their neural correlates. I work mostly with behavioural data, eyetracking and virtual reality. We also implement few paradigms with the use of intracranial EEG and fMRI.</description>
@@ -18,10 +18,10 @@
     <item>
       <title></title>
       <link>http://hejtmy.com/cv/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>http://hejtmy.com/cv/</guid>
-      <description>Work experience    September 2017 – June 2018 | Fulbright scholar | Center for Neuroscience, UC Davis | California, USA
+      <description>Work experience September 2017 – June 2018 | Fulbright scholar | Center for Neuroscience, UC Davis | California, USA
 I received Fulbright scholarship to study human navigation in virtual reality and how it transfers to the real world in the lab of Arne D. Ekstrom, PhD in California. I have programmed experiments in Unity for HTC Vive and iOS app for real-world tracking.
  January 2015 – Present | National Institute of Mental Health | junior researcher and programmer | Klecany, CZ</description>
     </item>
@@ -29,22 +29,22 @@ I received Fulbright scholarship to study human navigation in virtual reality an
     <item>
       <title></title>
       <link>http://hejtmy.com/packages/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>http://hejtmy.com/packages/</guid>
-      <description>Navr    Navr is R based package which is made to work with positioning data in behavioral experiments. I have been using the package for analysing people&amp;rsquo;s paths and behaviors in virtual environments, real environments and also for animal research with rats and mice.
- github documentation  BUF (BrainVR Unity Framework)    BrainVR unity framework is a product of 4 year long programming of various experimental paradigms in Unity and wanting to make the output and coding as much uniform as possible to simplify the code structure and data analysis pipelines.</description>
+      <description>Navr Navr is R based package which is made to work with positioning data in behavioral experiments. I have been using the package for analysing people&amp;rsquo;s paths and behaviors in virtual environments, real environments and also for animal research with rats and mice.
+ github documentation  BUF (BrainVR Unity Framework) BrainVR unity framework is a product of 4 year long programming of various experimental paradigms in Unity and wanting to make the output and coding as much uniform as possible to simplify the code structure and data analysis pipelines.</description>
     </item>
     
     <item>
       <title></title>
       <link>http://hejtmy.com/publications/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0100</pubDate>
       
       <guid>http://hejtmy.com/publications/</guid>
-      <description>2020    Vlcek, K. , Fajnerova, I., Nekovarova, T., Hejtmanek, L., Janca, R., Jezdik, P., Kalina, A., Tomasek, M., Krsek, P., Hammer, J., Marusic, P. (2020) Mapping the scene and object processing networks by intracranial EEG Frontiers in Human Neuroscience, Accepted
+      <description>2020 Vlcek, K. , Fajnerova, I., Nekovarova, T., Hejtmanek, L., Janca, R., Jezdik, P., Kalina, A., Tomasek, M., Krsek, P., Hammer, J., Marusic, P. (2020) Mapping the scene and object processing networks by intracranial EEG Frontiers in Human Neuroscience, Accepted
 Plechatá, A., Hejtmánek, L., Fajnerová, I. (2020). Virtual Supermarket Shopping Task for cognitive assessment and rehabilitation of psychiatric patients: Validation in chronic schizophrenia? Československá psychologie, Accepted
-Hejtmánek, L.</description>
+Hejtmánek, L., Starrett, M., Ferrer, E.</description>
     </item>
     
     <item>

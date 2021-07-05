@@ -1,42 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://hejtmy.com/about/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-02T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://hejtmy.com/cv/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-02T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://hejtmy.com/packages/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-02T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://hejtmy.com/publications/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-01-02T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://hejtmy.com/projects/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://hejtmy.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://hejtmy.com/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://hejtmy.com/tags/</loc>
   </url>
-  
 </urlset>
