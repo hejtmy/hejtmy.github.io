@@ -74,6 +74,10 @@ disqusShortname = "yourdiscussshortname"
     name = "Packages"
     weight = 3
     url = "/packages/"
+[[menu.main]]
+  name = "CV"
+  weight= 4
+  url="/files/cv-hejtmanek.pdf"
 #[[menu.main]]
 #    name = "Projects"
 #    weight = 2
