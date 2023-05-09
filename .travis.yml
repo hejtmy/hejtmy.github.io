@@ -23,7 +23,7 @@ script:
   - git submodule update --init
   - git submodule update --remote --merge
   - hugo -d ../${GIT_DEPLOY_DIR}
-  - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "hejtmy.com" > ../${GIT_DEPLOY_DIR}/CNAME; fi'
+  - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "https://www.hejtmy.com" > ../${GIT_DEPLOY_DIR}/CNAME; fi'
 
 deploy:
   provider: pages
