@@ -1,4 +1,4 @@
-baseurl = "http://hejtmy.com"
+baseurl = "http://www.hejtmy.com"
 title = "hejtmy"
 theme = "hugo-coder"
 languagecode = "en"
