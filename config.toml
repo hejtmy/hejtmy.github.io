@@ -1,4 +1,4 @@
-baseurl = "http://www.hejtmy.com"
+baseurl = "https://www.hejtmy.com"
 title = "hejtmy"
 theme = "hugo-coder"
 languagecode = "en"
@@ -63,7 +63,6 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/hejtmy_"
-
 
 # Menu links
 [[menu.main]]
