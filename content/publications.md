@@ -5,6 +5,18 @@ title = ""
 slug = "" 
 +++
 
+## 2023
+Radostova, D., Kuncicka, D., Krajcovic, B., Hejtmanek, L., Petrasek, T., Svoboda, J., & Brozka, H. (2023). Incidental temporal binding in rats: A novel behavioral task. Plos one, 18(6), e0274437.
+
+## 2022
+Hejtmánek, L., Hůla, M., Herrová, A., & Surový, P. (2022), **Forest digital twin as a relaxation environment: A pilot study.** Frontiers in Virtual Reality (2022, 11) [Link](https://www.frontiersin.org/articles/10.3389/frvir.2022.1033708/full)
+
+## 2021
+
+Plechatá, A., Hejtmánek, L., & Fajnerová, I. (2021). Virtual supermarket shopping task for cognitive rehabilitation and assessment of psychiatric patients: Validation in chronic schizophrenia. Československá psychologie, 65(1), 14-30.
+
+Plechatá, A., Hejtmánek, L., Bednářová, M., & Fajnerová, I. (2021). Cognitive remediation in virtual environments for patients with schizophrenia and major depressive disorder: A feasibility study. International Journal of Environmental Research and Public Health, 18(17), 9081.
+
 ### 2020
 Vlcek, K. , Fajnerova, I., Nekovarova, T., Hejtmanek, L., Janca, R., Jezdik, P., Kalina, A., Tomasek, M., Krsek, P., Hammer, J., Marusic, P. (2020) **Mapping the scene and object processing networks by intracranial EEG** Frontiers in Human Neuroscience, Accepted
 

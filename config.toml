@@ -15,7 +15,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Lukáš Hejtmánek"
-    info = "PhD in Neuroscience, master's in psychology, data scientist, videogaming & boardgaming geek, VR enthusiast"
+    info = "PhD in Neuroscience, Master's in psychology, Researcher, Data Scientist, Videogaming & Boardgaming geek"
     description = "Lukáš Hejtmánek's personal website"
     keywords = "blog, developer, personal"
     avatarurl = ""
@@ -38,54 +38,60 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-github fa-2x"
     weight = 1
     url = "https://github.com/hejtmy/"
+    
 [[params.social]]
     name = "email"
     icon = "fa fa-envelope fa-2x"
     weight = 3
     url = "mailto:hejtmy@gmail.com"
+
 [[params.social]]
     name = "Google scholar"
     icon = "fas fa-book-open fa-2x"
     weight = 3
     url = "https://scholar.google.com/citations?user=bXK961cAAAAJ&hl=en"
+
 [[params.social]]
     name = "ResearchGate"
     icon = "fab fa-researchgate fa-2x"
     weight = 3
     url = "https://www.researchgate.net/profile/Lukas_Hejtmanek"
+
 [[params.social]]
     name = "Linkedin"
     icon = "fa fa-linkedin fa-2x"
     weight = 3
     url = "https://www.linkedin.com/in/lukashejtmanek/"
+
 [[params.social]]
-    name = "Twitter"
-    icon = "fa fa-twitter fa-2x"
+    name = "Bluesky"
+    icon = "fa fa-square fa-2x"
     weight = 3
-    url = "https://twitter.com/hejtmy_"
+    url = "https://bsky.app/profile/hejtmy.bsky.social"
 
 # Menu links
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "CyberSpace Lab"
+    weight = 1
+    url = "https://www.cyberspacelab.cz/"
 [[menu.main]]
     name = "Publications"
-    weight = 1
+    weight = 3
     url = "/publications/"
 [[menu.main]]
     name = "Packages"
-    weight = 3
+    weight = 5
     url = "/packages/"
 [[menu.main]]
   name = "CV"
-  weight= 4
-  url="/files/cv-hejtmanek.pdf"
-#[[menu.main]]
-#    name = "Projects"
-#    weight = 2
-#    url = "/projects/"
+  weight= 7
+  url="https://www.linkedin.com/in/lukashejtmanek/"
 [[menu.main]]
     name = "Blog"
     weight = 5
     url  = "http://www.neuro-coder.com"
-[[menu.main]]
-    name = "About"
-    weight = 10
-    url = "/about/"
